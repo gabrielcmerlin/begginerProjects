@@ -1,4 +1,4 @@
-# Begginer Projects
+# Projetos Iniciantes
 
 A dupla formada por Gabriel da Costa Merlin [12544420] e Mateus Bernal Leffeck [13673318] fizeram 2 trabalhos
 durante o 1º semestre de 2022 para a disciplina de Introdução à Ciência de Computação I ministrada pelo professor
