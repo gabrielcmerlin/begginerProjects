@@ -1,7 +1,7 @@
-# Projetos Iniciantes
+# Begginer Projects
 
-A dupla formada por Gabriel da Costa Merlin [12544420] e Mateus Bernal Leffeck [13673318] fez 2 trabalhos
-durante o 1º semestre de 2022 para a disciplina de Introdução à Ciência de Computação I ministrada pelo professor
-Ricardo Marcondes Marcacini. O primeiro projeto é um Algoritmo Genético Simplificado feito para encontrar raízes
-de equações, enquanto o segundo é uma Agenda Inteligente na qual podemos, entre outras coisas, inserir, deletar
-e buscar contatos.
+The duo formed by Gabriel da Costa Merlin [12544420] and Mateus Bernal Leffeck [13673318] did 2 projects
+during the 1st semester of 2022 for the Introduction to Computer Science I subject taught by the professor
+Ricardo Marcondes Marcacini. The first project is a Simplified Genetic Algorithm made to find roots
+of equations, while the second is a Smart Agenda in which we can, among other things, insert, delete
+and search for contacts.
